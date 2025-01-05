@@ -1,13 +1,12 @@
 #  João Oliveira
 
- **`Desenvolvedor`** 
 
-Desenvolvedor em constante aprendizado. Estudante de Ciência da Computação, com estudos focados em Back-end, todavia com experiência em Front-end (JavaScript, HTML, CSS), visando aprofundar conhecimentos em Angular. Experiência com desenvolvimento utilizando Spring e Node.js. Atualmente, focado em expandir conhecimentos em Ciência de Dados e AWS. Comprometido com a constância nos estudos para evoluir como pessoa e desenvolvedor.
+Desenvolvedor em constante aprendizado. Estudante de Ciência da Computação, com foco de estudos em Back-end, mas com experiência em Front-end (JavaScript, HTML, CSS), visando aprofundar conhecimentos no framework Angular. Experiência com desenvolvimento utilizando Spring e Node.js. Atualmente, focado em ampliar conhecimentos em Ciência de Dados e AWS. Comprometido com a constância nos estudos para evoluir tanto como pessoa quanto como profissional.
 
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Linguagens de Programação
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
